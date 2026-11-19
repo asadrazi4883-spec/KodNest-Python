@@ -2,23 +2,26 @@
 
 ## My Name
 
-Write your name.
+Asad Razi
 
 ## What I Learned in Foundation Month
 
-Write at least three things you learned.
+I learned python basics such as data types,operators,list,tuple etc 
 
 ## Why I Selected Python
 
-Write your reason in your own words.
+I selected python because --
+it has less line of codes
+easy to understand 
+easy to debug
 
 ## My Career Goal
 
-Write the role you want to achieve.
+i carrer goal is to become an AIML engineer
 
 ## What I Understood Today
 
-Complete these sentences:
+Complete these sentences:git push 
 
 Programming means:
 
